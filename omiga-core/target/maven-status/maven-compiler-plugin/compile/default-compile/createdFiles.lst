@@ -1,0 +1,6 @@
+com\exedee\omiga\core\model\Document$DocumentBuilder.class
+com\exedee\omiga\core\model\Document.class
+com\exedee\omiga\core\repository\DocumentRepository.class
+com\exedee\omiga\core\model\Document$DocumentBuilderImpl.class
+com\exedee\omiga\core\exception\ResourceNotFoundException.class
+com\exedee\omiga\core\service\DocumentService.class

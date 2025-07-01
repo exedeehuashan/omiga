@@ -1,0 +1,5 @@
+com\exedee\omiga\web\mapper\DocumentMapperImpl.class
+com\exedee\omiga\web\dto\DocumentDTO.class
+com\exedee\omiga\web\mapper\DocumentMapper.class
+com\exedee\omiga\OmigaApplication.class
+com\exedee\omiga\web\controller\DocumentController.class
